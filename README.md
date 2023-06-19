@@ -13,9 +13,7 @@ Hey there! I'm Chris Sekaran, an experienced software developer with a passion f
 - 📖 I am currently reading **1984** by George Orwell
 - 💬 Talk to me about travelling, hiking in nature and life stories.
 - 👯 We can connect to discuss how solve real problems in the world with software.
-- ⚡ Fun fact: 
 - 🧑‍💻 Tech I work on :
-
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
